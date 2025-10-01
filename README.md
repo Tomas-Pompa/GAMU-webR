@@ -28,7 +28,7 @@ Upload a ZIP file containing these files or your own data. After extraction, sel
 If the app is hosted via GitHub Pages, visit:
 
 ```
-https://tomas-pompa.github.io/webR-demo/
+https://tomas-pompa.github.io/GAMU-webR/
 ```
 
 ## Notes
